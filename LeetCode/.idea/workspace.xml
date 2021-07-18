@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25fa6ad6-bc15-4638-859f-ecb712c59cf4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/amazon/arraysandstrings/CompareVersionNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/amazon/arraysandstrings/ContainerWithMostWater.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/amazon/arraysandstrings/GroupAnagrams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/amazon/arraysandstrings/ImplementStrStr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/amazon/arraysandstrings/IntegerToRoman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/amazon/arraysandstrings/LongestSubstringWithoutRepeatingCharacters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/amazon/arraysandstrings/MinimumWindowSubstring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/amazon/arraysandstrings/ProductOfArrayExceptSelf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/amazon/arraysandstrings/RomanToInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/amazon/arraysandstrings/RotateImage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/amazon/arraysandstrings/StringToIntegerAtoi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/amazon/arraysandstrings/ThreeSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/amazon/arraysandstrings/ThreeSumClosest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/amazon/arraysandstrings/TwoSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/amazon/assestment/CutOfTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/amazon/assestment/FindWordsThatCanBeFormedByCharacters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/amazon/assestment/GreatestCommonDivisorOfStrings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/amazon/assestment/KClosestPointsToOrigin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/amazon/assestment/LongestPalindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/amazon/assestment/MostCommonWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/amazon/assestment/NumberOfDiceRollsWithTargetSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/amazon/assestment/PartitionLabels.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/amazon/assestment/RectangleOverlap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedinlearning/SortingAlgorithms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/random/ClimbingStairs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/random/KnightProbabilityInChessboard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/random/MultiplyStrings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/random/StringToIntegerAtoi.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1rFLZ3KKV6nd0JX6IgPJM591Y34" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Training" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="amazon" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.KnightProbabilityInChessboard">
+    <configuration name="CutOfTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="amazon.assestment.CutOfTree" />
+      <module name="Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="amazon.assestment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreatestCommonDivisorOfStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="amazon.assestment.GreatestCommonDivisorOfStrings" />
+      <module name="Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="amazon.assestment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KnightProbabilityInChessboard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="random.KnightProbabilityInChessboard" />
+      <module name="Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="random.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MostCommonWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="amazon.assestment.MostCommonWord" />
+      <module name="Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="amazon.assestment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductOfArrayExceptSelf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="amazon.arraysandstrings.ProductOfArrayExceptSelf" />
+      <module name="Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="amazon.arraysandstrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KnightProbabilityInChessboard" />
+        <item itemvalue="Application.GreatestCommonDivisorOfStrings" />
+        <item itemvalue="Application.CutOfTree" />
+        <item itemvalue="Application.MostCommonWord" />
+        <item itemvalue="Application.ProductOfArrayExceptSelf" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25fa6ad6-bc15-4638-859f-ecb712c59cf4" name="Default Changelist" comment="" />
+      <created>1618566946436</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618566946436</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1621333083910">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621333083910" />
+    <state x="393" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1622645250316">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="393" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1622645250316" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1621868814469">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621868814469" />
+    <state x="715" y="222" width="834" height="595" key="#xdebugger.evaluate" timestamp="1622644819368">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="222" width="834" height="595" key="#xdebugger.evaluate/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1622644819368" />
+    <state width="411" height="466" key="DebuggerActiveHint" timestamp="1622557915377">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="411" height="466" key="DebuggerActiveHint/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1622557915377" />
+    <state width="411" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1622417052803" />
+    <state x="2660" y="277" key="FileChooserDialogImpl" timestamp="1626604747372">
+      <screen x="1920" y="3" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="277" key="FileChooserDialogImpl/1920.3.1920.1040/0.0.1920.1040/-1920.-8.1920.1040@1920.3.1920.1040" timestamp="1626604747372" />
+    <state width="1877" height="257" key="GridCell.Tab.0.bottom" timestamp="1624097870414">
+      <screen x="1920" y="3" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="257" key="GridCell.Tab.0.bottom/-1920.-8.1920.1040/1920.3.1920.1040/0.0.1920.1040@1920.3.1920.1040" timestamp="1624097870414" />
+    <state width="1877" height="245" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1618930837767" />
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1622645051901" />
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1622417043465" />
+    <state width="1877" height="257" key="GridCell.Tab.0.center" timestamp="1624097870414">
+      <screen x="1920" y="3" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="257" key="GridCell.Tab.0.center/-1920.-8.1920.1040/1920.3.1920.1040/0.0.1920.1040@1920.3.1920.1040" timestamp="1624097870414" />
+    <state width="1877" height="245" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1618930837767" />
+    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1622645051901" />
+    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1622417043465" />
+    <state width="1877" height="257" key="GridCell.Tab.0.left" timestamp="1624097870414">
+      <screen x="1920" y="3" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="257" key="GridCell.Tab.0.left/-1920.-8.1920.1040/1920.3.1920.1040/0.0.1920.1040@1920.3.1920.1040" timestamp="1624097870414" />
+    <state width="1877" height="245" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1618930837767" />
+    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1622645051901" />
+    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1622417043465" />
+    <state width="1877" height="257" key="GridCell.Tab.0.right" timestamp="1624097870414">
+      <screen x="1920" y="3" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="257" key="GridCell.Tab.0.right/-1920.-8.1920.1040/1920.3.1920.1040/0.0.1920.1040@1920.3.1920.1040" timestamp="1624097870414" />
+    <state width="1877" height="245" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1618930837767" />
+    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1622645051901" />
+    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1622417043465" />
+    <state width="1877" height="280" key="GridCell.Tab.1.bottom" timestamp="1624097704512">
+      <screen x="1920" y="3" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.1.bottom/-1920.-8.1920.1040/1920.3.1920.1040/0.0.1920.1040@1920.3.1920.1040" timestamp="1624097704512" />
+    <state width="1877" height="280" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1622645051902" />
+    <state width="1877" height="280" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1622417043702" />
+    <state width="1877" height="280" key="GridCell.Tab.1.center" timestamp="1624097704512">
+      <screen x="1920" y="3" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.1.center/-1920.-8.1920.1040/1920.3.1920.1040/0.0.1920.1040@1920.3.1920.1040" timestamp="1624097704512" />
+    <state width="1877" height="280" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1622645051901" />
+    <state width="1877" height="280" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1622417043702" />
+    <state width="1877" height="280" key="GridCell.Tab.1.left" timestamp="1624097704511">
+      <screen x="1920" y="3" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.1.left/-1920.-8.1920.1040/1920.3.1920.1040/0.0.1920.1040@1920.3.1920.1040" timestamp="1624097704511" />
+    <state width="1877" height="280" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1622645051901" />
+    <state width="1877" height="280" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1622417043702" />
+    <state width="1877" height="280" key="GridCell.Tab.1.right" timestamp="1624097704512">
+      <screen x="1920" y="3" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.1.right/-1920.-8.1920.1040/1920.3.1920.1040/0.0.1920.1040@1920.3.1920.1040" timestamp="1624097704512" />
+    <state width="1877" height="280" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1622645051901" />
+    <state width="1877" height="280" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1622417043702" />
+    <state x="470" y="255" width="979" height="630" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1621874822608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="470" y="255" width="979" height="630" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621874822608" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1621868404702">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621868404702" />
+    <state x="2262" y="143" key="new project wizard" timestamp="1626604660286">
+      <screen x="1920" y="3" width="1920" height="1040" />
+    </state>
+    <state x="2262" y="143" key="new project wizard/1920.3.1920.1040/0.0.1920.1040/-1920.-8.1920.1040@1920.3.1920.1040" timestamp="1626604660286" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1622557563773">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1304" y="240" key="run.anything.popup/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1618568414344" />
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1622557563773" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1622194454563">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1622194454563" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1621730445831" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/amazon/arraysandstrings/ThreeSumClosest.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/amazon/arraysandstrings/ThreeSumClosest.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/amazon/arraysandstrings/ThreeSumClosest.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/amazon/arraysandstrings/ThreeSumClosest.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/amazon/arraysandstrings/ThreeSumClosest.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/amazon/assestment/RectangleOverlap.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/amazon/arraysandstrings/CompareVersionNumbers.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/amazon/arraysandstrings/CompareVersionNumbers.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/amazon/arraysandstrings/CompareVersionNumbers.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/amazon/assestment/KClosestPointsToOrigin.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/amazon/assestment/CutOfTree.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/amazon/assestment/GreatestCommonDivisorOfStrings.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/amazon/assestment/GreatestCommonDivisorOfStrings.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/random/KnightProbabilityInChessboard.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="49" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
