@@ -5,5 +5,7 @@
 - 📫 How to reach me? you can send me an email through my personal website (robertoctorres.com) 
 
 <!---
-This repository is special because it will be a compilation of labs and guides I will be using to prepare myself for the upcoming personal challenges
+This repository is special because it will be a compilation of labs and guides I will be using to prepare myself for the upcoming personal challenges.
+
+DISCLAIMER: The code presented on this repository is far for being optimized.
 --->
