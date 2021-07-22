@@ -4,22 +4,8 @@ import java.util.*;
 
 /*
 
-src:https://www.hackerrank.com/challenges/30-data-types/problem?isFullScreen=true
-
-Day 1: Data Types
-
-Objective
-Today, we're discussing data types. Check out the Tutorial tab for learning materials and an instructional video!
-
-Task
-Complete the code in the editor below. The variables , , and  are already declared and initialized for you. You must:
-
-Declare  variables: one of type int, one of type double, and one of type String.
-Read  lines of input from stdin (according to the sequence given in the Input Format section below) and initialize your  variables.
-Use the  operator to perform the following operations:
-Print the sum of  plus your int variable on a new line.
-Print the sum of  plus your double variable to a scale of one decimal place on a new line.
-Concatenate  with the string you read as input and print the result on a new line.
+    Day 1: Data Types
+    src:https://www.hackerrank.com/challenges/30-data-types/problem
 
  */
 

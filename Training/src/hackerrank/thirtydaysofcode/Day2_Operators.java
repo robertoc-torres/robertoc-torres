@@ -1,22 +1,5 @@
 package hackerrank.thirtydaysofcode;
 
-/*
-
-    src:https://www.hackerrank.com/challenges/30-operators/problem
-
-    Day 2: Operators
-
-    Objective
-    In this challenge, you will work with arithmetic operators. Check out the Tutorial tab for learning materials and an instructional video.
-
-    Task
-    Given the meal price (base cost of a meal), tip percent (the percentage of the meal price being added as tip), and tax percent (the percentage of the meal price being added as tax) for a meal, find and print the meal's total cost. Round the result to the nearest integer.
-
-    Example
-    A tip of 15% * 100 = 15, and the taxes are 8% * 100 = 8. Print the value  and return from the function.
-
- */
-
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -25,16 +8,14 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-class Result {
+/*
 
-    /*
-     * Complete the 'solve' function below.
-     *
-     * The function accepts following parameters:
-     *  1. DOUBLE meal_cost
-     *  2. INTEGER tip_percent
-     *  3. INTEGER tax_percent
-     */
+    Day 2: Operators
+    src:https://www.hackerrank.com/challenges/30-operators/problem
+
+ */
+
+class Result {
 
     public static void solve(double meal_cost, int tip_percent, int tax_percent) {
         // Write your code here
