@@ -1,7 +1,6 @@
 package hackerrank.thirtydaysofcode;
 
-import java.io.*;
-import java.util.*;
+import java.util.Scanner;
 
 /*
 
