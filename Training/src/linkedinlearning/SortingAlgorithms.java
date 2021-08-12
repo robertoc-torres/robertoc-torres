@@ -1,4 +1,4 @@
-package leetcode.linkedinlearning;
+package linkedinlearning;
 
 public class SortingAlgorithms {
 
