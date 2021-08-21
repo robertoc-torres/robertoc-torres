@@ -8,6 +8,7 @@ public class SortingAlgorithms {
         int[] unsortedArray = new int[size];
         int[] sortedArray;
 
+        System.out.println("*** BUBBLE SORT ***");
         System.out.println("Input array:");
         main.fillWithRandomValues(unsortedArray);
         printArray(unsortedArray);
@@ -15,6 +16,7 @@ public class SortingAlgorithms {
         System.out.println("Sorted array:");
         printArray(sortedArray);
 
+        System.out.println("*** SELECTION SORT ***");
         System.out.println("Input array:");
         main.fillWithRandomValues(unsortedArray);
         printArray(unsortedArray);
@@ -22,12 +24,21 @@ public class SortingAlgorithms {
         System.out.println("Sorted array:");
         printArray(sortedArray);
 
+        System.out.println("*** INSERTION SORT ***");
         System.out.println("Input array:");
         main.fillWithRandomValues(unsortedArray);
         printArray(unsortedArray);
         sortedArray = main.insertionSort(unsortedArray);
         System.out.println("Sorted array:");
         printArray(sortedArray);
+
+        System.out.println("*** MERGE SORT ***");
+        System.out.println("Input array:");
+        main.fillWithRandomValues(unsortedArray);
+        printArray(unsortedArray);
+        main.mergeSort(unsortedArray);
+        System.out.println("Sorted array:");
+        printArray(unsortedArray);
 
     }
 
@@ -38,6 +49,49 @@ public class SortingAlgorithms {
         System.out.println("");
     }
 
+    public void mergeSort(int[] arr) {
+        mergeSort(arr, arr.length);
+    }
+
+    public static void mergeSort(int[] a, int n) {
+        if (n < 2) {
+            return;
+        }
+        int mid = n / 2;
+        int[] l = new int[mid];
+        int[] r = new int[n - mid];
+
+        for (int i = 0; i < mid; i++) {
+            l[i] = a[i];
+        }
+        for (int i = mid; i < n; i++) {
+            r[i - mid] = a[i];
+        }
+        mergeSort(l, mid);
+        mergeSort(r, n - mid);
+
+        merge(a, l, r, mid, n - mid);
+    }
+
+    public static void merge(
+            int[] a, int[] l, int[] r, int left, int right) {
+
+        int i = 0, j = 0, k = 0;
+        while (i < left && j < right) {
+            if (l[i] <= r[j]) {
+                a[k++] = l[i++];
+            } else {
+                a[k++] = r[j++];
+            }
+        }
+        while (i < left) {
+            a[k++] = l[i++];
+        }
+        while (j < right) {
+            a[k++] = r[j++];
+        }
+    }
+
     public int[] bubbleSort(int[] arr) {
         if (arr == null || arr.length < 2) {
             return arr;
@@ -45,7 +99,6 @@ public class SortingAlgorithms {
         int aux;
         for (int i = 1; i < arr.length; i++) {
             for (int j = 0; j < arr.length - i; j++) {
-                System.out.println(i);
                 if (arr[j] > arr[j + 1]) {
                     aux = arr[j];
                     arr[j] = arr[j + 1];
